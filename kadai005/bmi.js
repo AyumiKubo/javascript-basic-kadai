@@ -7,4 +7,7 @@ userHeight = 1.7;
 let squaredHeight;
 quaredHeight = (userHeight * userHeight);
 
-console.log(userWight / quaredHeight);
+let userBmi;
+userBmi = (userWight / quaredHeight);
+
+console.log(userBmi);
